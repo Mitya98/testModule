@@ -1,3 +1,3 @@
-module github.com/Mitya98/testModule
+module github.com/Mitya98/gitmodule/somepackage
 
 go 1.19
